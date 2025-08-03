@@ -15,12 +15,12 @@ Workforce Snapshot: Includes critical KPIs such as total employees (1470), prese
 
 
 # ⚙️ Technologies Used:
-Power BI Desktop (.pbix) for dashboard design
+Power BI Desktop for 
 
 Power Query (M language) for ETL processes
 
 DAX for dynamic calculations like attrition rate and age averages
 
-Excel (.xlsx) as the data source
+-<https://github.com/Arkajana03/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx>- as the data source
 
 Custom visuals including bar, pie, and donut charts for deep drill-down
