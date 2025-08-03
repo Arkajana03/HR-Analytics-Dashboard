@@ -15,12 +15,12 @@ Workforce Snapshot: Includes critical KPIs such as total employees (1470), prese
 
 
 # ⚙️ Technologies Used:
-Power BI Desktop for 
+Power BI Desktop for <a href ="https://github.com/Arkajana03/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Daataset</a>
 
 Power Query (M language) for ETL processes
 
 DAX for dynamic calculations like attrition rate and age averages
 
--<https://github.com/Arkajana03/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx>- as the data source
+<a href ="https://github.com/Arkajana03/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Daataset</a>- as the data source
 
 Custom visuals including bar, pie, and donut charts for deep drill-down
