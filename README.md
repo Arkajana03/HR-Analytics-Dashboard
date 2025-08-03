@@ -3,7 +3,7 @@ This project presents a dynamic HR Analytics Dashboard developed using Microsoft
 
 
 
-🔍 Key Insights Provided:
+# 🔍 Key Insights Provided:
 Attrition Analysis: Tracks total attrition (237) with an overall attrition rate of 16.12%. Visuals break down attrition by department (R&D highest at 56.12%), age group, and education field, revealing that Life Sciences graduates and the 25–34 age group show the highest exit rates.
 
 Employee Distribution: Provides a clear demographic breakdown by gender and age bands, with the majority of employees falling in the 25–44 age range. Gender segmentation helps assess diversity and identify groups most prone to turnover.
@@ -14,7 +14,7 @@ Workforce Snapshot: Includes critical KPIs such as total employees (1470), prese
 
 
 
-⚙️ Technologies Used:
+# ⚙️ Technologies Used:
 Power BI Desktop (.pbix) for dashboard design
 
 Power Query (M language) for ETL processes
